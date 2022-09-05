@@ -1,4 +1,4 @@
-# MMPose教程
+# MMDeploy教程
 
 OpenMMLab主页：https://openmmlab.com/
 
